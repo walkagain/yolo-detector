@@ -1,2 +1,3 @@
 # yolo-detector
-yolo with tensorrt
+Yolo object detection with TensorRT
+
